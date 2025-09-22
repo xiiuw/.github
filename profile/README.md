@@ -39,6 +39,9 @@
 | Access         | Admin rights required          |
 | Security       | TPM & Secure Boot disabled     |
 
+
+<img src="https://i.postimg.cc/x1G2sFxp/1.png" alt="Unleash the Elements" />
+
 ##Key Features
 
 | Feature                     | Description                                                                 |
