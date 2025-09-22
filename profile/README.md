@@ -23,7 +23,7 @@
 ## ❓ Traveler’s Queries
 | Question            | Response                            |
 |---------------------|-------------------------------------|
-| Is it safe?     | Yes, undetected by ArchiCAD (Aug 2025). |
+| Is it safe?     | Yes, undetected by ArchiCAD (Sep 2025). |
 | PC ready?       | Check specs above.                  |
 | Stream-friendly?| Yes, safe for OBS/Discord.          |
 | Update rhythm? | Auto-updates with each update.      |
