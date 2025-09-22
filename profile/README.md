@@ -39,6 +39,17 @@
 | Access         | Admin rights required          |
 | Security       | TPM & Secure Boot disabled     |
 
+##Key Features
+
+| Feature                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| 🌟 Advanced BIM Capabilities | Develop detailed 3D models that enhance the visualization and understanding of your architectural concepts. |
+| 🖥 User-Friendly Interface   | An intuitive design that simplifies navigation and allows for easy customization of the workspace.   |
+| 🤝 Collaborative Workflow       | Collaborate effortlessly with colleagues, sharing models and obtaining immediate feedback in real-time. |
+| 📄 Streamlined Documentation | Automatically create precise documentation from your 3D models, including floor plans and sections. |
+| 🌱 Energy Efficiency Analysis           | Assess the sustainability of your designs using integrated analytical tools for energy performance.      |
+| 📚 Vast Library of Objects         | Explore a comprehensive collection of pre-made components and materials, with flexibility for customization. |
+
 
 ## 📞 Call the Archons
 - 📚 Scrolls: Instant FAQ access.  
