@@ -1,8 +1,5 @@
-## Hi there 👋
 
 ## Overview
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-undetected-teal?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ArchiCAD_PRO_VERSION-pink?style=for-the-badge" />
